@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: rgb(221, 216, 216);
+}
+figure{
+    background-color: whitesmoke;
+}
+h1{
+
+    font-size: 40px;
+
+}
+
+figcaption{
+    padding: 15px;
+}
+
+h2{
+    font-size: 15px ;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: justify;
+    
+        
+}
+li{
+    margin-bottom: 1em;
+}
+cite{
+    display: block;
+    margin-bottom: 20px;
+    margin: auto;
+    text-align: justify;
+    width: 50%;
+}
